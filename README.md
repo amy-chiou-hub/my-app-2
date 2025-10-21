@@ -1,7 +1,7 @@
 ## 專案介紹
 提供的功能有:
-    1. 個人網頁
-    2. 查詢GitHub公開資料庫
+- 個人網頁
+- 查詢GitHub公開資料庫
 
 ## 解說影片
 - [youtube](https://youtu.be/4-I18_DiCDk)
