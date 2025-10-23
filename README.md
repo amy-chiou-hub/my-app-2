@@ -12,8 +12,9 @@
 
 ## 更改功能處
 - [AItest.js](https://github.com/amy-chiou-hub/my-app-2/blob/main/my-app-2/src/AItest.js)
-    1. 換成使用GitHub API 取得 GitHub 上面的公開資料庫
-    2. 畫面更動 -> 一頁顯示6格資料有翻頁功能
+    1. 不再使用 Gemini ai
+    2. 換成使用 GitHub API 取得 GitHub 上面的公開資料庫
+    3. 畫面更動 -> 一頁顯示6格資料有翻頁功能
 ## [Render](https://my-app-2-i7e0.onrender.com)
 - https://my-app-2-i7e0.onrender.com
 
